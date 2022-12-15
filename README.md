@@ -1,10 +1,15 @@
 # 以ESP32實現簡易智慧家庭
+
+## 目錄
+- [預計功能](https://github.com/evachen20041010/Smart-Home-using-ESP32-Project/edit/main/README.md#%E9%A0%90%E6%9C%9F%E5%8A%9F%E8%83%BD)
+- [預計進度](https://github.com/evachen20041010/Smart-Home-using-ESP32-Project/edit/main/README.md#%E9%A0%90%E8%A8%88%E9%80%B2%E5%BA%A6)
+
 ## 預期功能
 ### Node-RED數據面板
->- 電燈開關控制
->- 風扇開關控制
->- 室內溫、溼度即時資訊
->- 室內溫、溼度每日折線圖
+- 電燈開關控制
+- 風扇開關控制
+- 室內溫、溼度即時資訊
+- 室內溫、溼度每日折線圖
 
 ## 預計進度
 > 12/7：構思專案  
