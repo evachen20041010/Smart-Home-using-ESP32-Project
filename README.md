@@ -25,3 +25,6 @@
 ## 使用到的感測器與元件
 - ESP32
 - DHT22
+
+## 參考連結
+- https://randomnerdtutorials.com/esp32-mqtt-publish-dht11-dht22-arduino/
