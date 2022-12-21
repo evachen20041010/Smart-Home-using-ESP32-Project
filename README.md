@@ -4,6 +4,7 @@
 - [預計功能](https://github.com/evachen20041010/Smart-Home-using-ESP32-Project#%E9%A0%90%E6%9C%9F%E5%8A%9F%E8%83%BD)
 - [預計進度](https://github.com/evachen20041010/Smart-Home-using-ESP32-Project#%E9%A0%90%E8%A8%88%E9%80%B2%E5%BA%A6)
 - [使用到的感測器與元件](https://github.com/evachen20041010/Smart-Home-using-ESP32-Project#%E4%BD%BF%E7%94%A8%E5%88%B0%E7%9A%84%E6%84%9F%E6%B8%AC%E5%99%A8%E8%88%87%E5%85%83%E4%BB%B6)
+- [參考連結](https://github.com/evachen20041010/Smart-Home-using-ESP32-Project/blob/main/README.md#%E5%8F%83%E8%80%83%E9%80%A3%E7%B5%90)
 
 ## 預期功能
 ### Node-RED數據面板
