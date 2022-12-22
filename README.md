@@ -29,3 +29,4 @@
 
 ## 參考連結
 - https://randomnerdtutorials.com/esp32-mqtt-publish-dht11-dht22-arduino/
+https://www.youtube.com/watch?v=Cxiqc_VZTEY
