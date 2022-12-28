@@ -24,8 +24,10 @@
 > 1/5：期末專題報告  
 
 ## 使用到的感測器與元件
-- ESP32
+- ESP32 (https://dl.espressif.com/dl/package_esp32_index.json)
 - DHT22
+- L9110 Motor Control Boand 小風扇模組
+- 3_Clor RGB LED
 
 ## 參考連結
 - https://randomnerdtutorials.com/esp32-mqtt-publish-dht11-dht22-arduino/
