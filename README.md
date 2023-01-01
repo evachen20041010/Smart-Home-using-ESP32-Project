@@ -27,7 +27,7 @@
 - ESP32 (https://dl.espressif.com/dl/package_esp32_index.json)
 - DHT22
 - L9110 Motor Control Boand 小風扇模組
-- 3_Clor RGB LED
+- 小雙色共陰LED傳感器
 
 ## 參考連結
 - https://randomnerdtutorials.com/esp32-mqtt-publish-dht11-dht22-arduino/
