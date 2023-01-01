@@ -33,3 +33,4 @@
 - https://randomnerdtutorials.com/esp32-mqtt-publish-dht11-dht22-arduino/
 - https://www.youtube.com/watch?v=Cxiqc_VZTEY
 - https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/
+- https://ithelp.ithome.com.tw/articles/10282302
