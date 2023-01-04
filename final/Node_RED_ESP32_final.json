@@ -1,0 +1,66 @@
+[
+    {
+        "id": "3b2210811f28c0b6",
+        "type": "ui_chart",
+        "z": "4e0be0a72152d8d5",
+        "name": "",
+        "group": "37de8fe8.46846",
+        "order": 2,
+        "width": 7,
+        "height": 6,
+        "label": "",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 410,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "37de8fe8.46846",
+        "type": "ui_group",
+        "name": "DHT22 Temperature",
+        "tab": "53b8c8f9.cfbe48",
+        "order": 1,
+        "disp": true,
+        "width": 7,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "53b8c8f9.cfbe48",
+        "type": "ui_tab",
+        "name": "MyHome",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    }
+]
